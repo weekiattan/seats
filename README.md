@@ -29,5 +29,3 @@ Change the pricing to increase by 3% and 5% over the *current* price of the tick
 
 ### further
 Implement a check of the input. Make sure to show the user a message when they type something invalid.
-
-### further
