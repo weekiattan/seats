@@ -29,3 +29,34 @@ Change the pricing to increase by 3% and 5% over the *current* price of the tick
 
 ### further
 Implement a check of the input. Make sure to show the user a message when they type something invalid.
+
+### further
+The airline upgraded it's fleet of aircraft. Each plane has 3 cabins, economy, business and first class.
+
+The user can now type in "buy first class" and the kiosk will sell them a first class seat, same for the other cabins.
+
+A plane now has 15 economy seats, 6 business class seats and 4 first class seats.
+
+##### The pricing models have also changed:
+
+##### For economy pricing is the same.
+
+For the first half of the seats, the price goes up 3%.
+
+For the second half it goes up by 5%.
+
+The last seat is $91,000.
+
+##### For business class:
+
+For the first half of the seats, the price goes up 6%.
+
+For the second half it goes up by 10%.
+
+The last seat is $91,000.
+
+##### For first class:
+
+All seats goes up by 15% over the original price of $50.
+
+The last seat is $191,000.
