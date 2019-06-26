@@ -1,6 +1,6 @@
 # seats
 
-![https://media.giphy.com/media/JSjVUhKot7GfyP5cUZ/giphy.gif](https://media.giphy.com/media/JSjVUhKot7GfyP5cUZ/giphy.gif)
+![https://media.giphy.com/media/WKJpCXfvBHyla/giphy.gif](https://media.giphy.com/media/WKJpCXfvBHyla/giphy.gif)
 
 Implement a program for a kiosk that sells airline tickets.
 
@@ -8,16 +8,16 @@ A plane has 10 seats.
 
 When the plane is empty a seat is $50.
 
-For each seat sold the ticket price goes up 5% over the original price.
+For each seat sold the ticket price goes up 5% over the original price of $50.
 
 When a user types `buy` into the input, consider that seat sold and show the user the price of their seat.
 
 ### further
 The airline boss requests finer-grained pricing:
 
-For the first half of the seats, the price goes up 3% over the original price.
+For the first half of the seats, the price goes up 3% over the original price of $50.
 
-For the second half it goes up by 5% over the original price.
+For the second half it goes up by 5% over the original price of $50.
 
 The last seat is $91,000.
 
