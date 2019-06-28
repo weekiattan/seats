@@ -10,7 +10,7 @@ When the plane is empty a seat is $50.
 
 For each seat sold the ticket price goes up 5% over the original price of $50.
 
-When a user types `buy` into the input, consider that seat sold and show the user the price of their seat.
+When a user types anything into the input, consider that seat sold and show the user the price of their seat.
 
 ### further
 The airline boss requests finer-grained pricing:
